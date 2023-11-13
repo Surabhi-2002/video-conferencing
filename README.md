@@ -15,6 +15,6 @@ You must have the following installed:
  Run the app
 
    
-   npm install -g live-server
-   live-server --port=8000
+   1.npm install -g live-server 
+   2.live-server --port=8000
    
